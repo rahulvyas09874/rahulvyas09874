@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulvyas09874
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in WEB DEV and BLOCKCHAIN
 - 🌱 I’m currently learning SOLIDITY
 - 💞️ I’m looking to collaborate on new projects
